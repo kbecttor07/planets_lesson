@@ -6,3 +6,4 @@ Nanooo yolo
 let's try to add this to git after setting up our new shortcuts!
 
 Shortcuts created successfully!
+Testing out another shortcut to push repo to github! - pom
