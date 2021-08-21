@@ -4,3 +4,5 @@ Let's see how this goes... have texted Elon some ideas!
 We can consider Venus as a possible base too!
 Nanooo yolo
 let's try to add this to git after setting up our new shortcuts!
+
+Shortcuts created successfully!
